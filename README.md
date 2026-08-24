@@ -1,4 +1,4 @@
-# Бердск — открытый разбор
+# Бердск — Кученков Степан
 
 Статический сайт цикла аналитических статей Степана Кученкова о бюджете и устройстве власти Бердска.
 
@@ -17,4 +17,3 @@ C:\Users\Netscape\.cache\codex-runtimes\codex-primary-runtime\dependencies\pytho
 `https://netscapenav.github.io/berdsk/`
 
 Внешние библиотеки, рекламные блоки, аналитика и cookie не используются.
-
