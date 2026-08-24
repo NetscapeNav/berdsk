@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4efe5"/>
+  <circle cx="1010" cy="98" r="240" fill="#dbe9e5"/>
+  <circle cx="1080" cy="570" r="310" fill="#ead7bd" opacity=".68"/>
+  <path d="M80 82h160" stroke="#b6542c" stroke-width="12"/>
+  <text x="80" y="186" fill="#123d3a" font-family="Arial, sans-serif" font-size="42" font-weight="700">БЕРДСК · ОТКРЫТЫЙ РАЗБОР</text>
+  <text x="80" y="292" fill="#172423" font-family="Georgia, serif" font-size="76" font-weight="700">Бердский бюджет.</text>
+  <text x="80" y="384" fill="#172423" font-family="Georgia, serif" font-size="76" font-weight="700">Как тратят деньги?</text>
+  <text x="80" y="485" fill="#53605e" font-family="Arial, sans-serif" font-size="32">Степан Кученков · анализ расходов 2021–2028</text>
+  <g transform="translate(867 276)">
+    <circle cx="122" cy="122" r="102" fill="none" stroke="#d5dcd8" stroke-width="36"/>
+    <circle cx="122" cy="122" r="102" fill="none" stroke="#176e66" stroke-width="36" stroke-dasharray="349 292" transform="rotate(-90 122 122)"/>
+    <text x="122" y="116" text-anchor="middle" fill="#123d3a" font-family="Arial" font-size="42" font-weight="700">54,5%</text>
+    <text x="122" y="153" text-anchor="middle" fill="#53605e" font-family="Arial" font-size="22">образование</text>
+  </g>
+</svg>
+
