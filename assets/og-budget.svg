@@ -1,17 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#f4efe5"/>
-  <circle cx="1010" cy="98" r="240" fill="#dbe9e5"/>
-  <circle cx="1080" cy="570" r="310" fill="#ead7bd" opacity=".68"/>
-  <path d="M80 82h160" stroke="#b6542c" stroke-width="12"/>
-  <text x="80" y="186" fill="#123d3a" font-family="Arial, sans-serif" font-size="42" font-weight="700">БЕРДСК · ОТКРЫТЫЙ РАЗБОР</text>
-  <text x="80" y="292" fill="#172423" font-family="Georgia, serif" font-size="76" font-weight="700">Бердский бюджет.</text>
-  <text x="80" y="384" fill="#172423" font-family="Georgia, serif" font-size="76" font-weight="700">Как тратят деньги?</text>
-  <text x="80" y="485" fill="#53605e" font-family="Arial, sans-serif" font-size="32">Степан Кученков · анализ расходов 2021–2028</text>
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="28" height="630" fill="#43a92b"/>
+  <circle cx="1080" cy="70" r="250" fill="#edf7e9"/>
+  <path d="M80 82h160" stroke="#43a92b" stroke-width="12"/>
+  <text x="80" y="174" fill="#2f8620" font-family="Arial, sans-serif" font-size="38" font-weight="800">АВТОРСКАЯ АНАЛИТИКА · СТЕПАН КУЧЕНКОВ</text>
+  <text x="80" y="286" fill="#151515" font-family="Arial, sans-serif" font-size="78" font-weight="900">Бердский бюджет.</text>
+  <text x="80" y="378" fill="#151515" font-family="Arial, sans-serif" font-size="78" font-weight="900">Как тратят деньги?</text>
+  <text x="80" y="485" fill="#5e645c" font-family="Arial, sans-serif" font-size="32">Разбор расходов города за 2021–2028 годы</text>
   <g transform="translate(867 276)">
-    <circle cx="122" cy="122" r="102" fill="none" stroke="#d5dcd8" stroke-width="36"/>
-    <circle cx="122" cy="122" r="102" fill="none" stroke="#176e66" stroke-width="36" stroke-dasharray="349 292" transform="rotate(-90 122 122)"/>
-    <text x="122" y="116" text-anchor="middle" fill="#123d3a" font-family="Arial" font-size="42" font-weight="700">54,5%</text>
-    <text x="122" y="153" text-anchor="middle" fill="#53605e" font-family="Arial" font-size="22">образование</text>
+    <circle cx="122" cy="122" r="102" fill="none" stroke="#dce2da" stroke-width="36"/>
+    <circle cx="122" cy="122" r="102" fill="none" stroke="#43a92b" stroke-width="36" stroke-dasharray="349 292" transform="rotate(-90 122 122)"/>
+    <text x="122" y="116" text-anchor="middle" fill="#151515" font-family="Arial" font-size="42" font-weight="900">54,5%</text>
+    <text x="122" y="153" text-anchor="middle" fill="#5e645c" font-family="Arial" font-size="22">образование</text>
   </g>
 </svg>
-

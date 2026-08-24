@@ -110,7 +110,7 @@ def city_bars() -> str:
 
 
 def trend_chart() -> str:
-    return '''<figure class="chart-card" aria-labelledby="trend-title"><figcaption id="trend-title"><strong>Расходы Бердска: факт 2021–2025 и план 2026–2028</strong><span>Млрд рублей. План будущих лет ещё может меняться решениями Совета депутатов.</span></figcaption><svg class="chart-svg" data-budget-trend role="img" aria-label="Расходы выросли с 3,7 миллиарда рублей в 2021 году до плановых 9,1 миллиарда в 2028 году" viewBox="0 0 760 350"></svg></figure>'''
+    return '''<figure class="chart-card trend-card" aria-labelledby="trend-title"><figcaption id="trend-title"><strong>Расходы Бердска: факт 2021–2025 и план 2026–2028</strong><span>Млрд рублей. План будущих лет ещё может меняться решениями Совета депутатов.</span></figcaption><svg class="chart-svg" data-budget-trend role="img" aria-label="Расходы выросли с 3,7 миллиарда рублей в 2021 году до плановых 9,1 миллиарда в 2028 году" viewBox="0 0 760 350"></svg><div class="trend-mobile" data-budget-trend-mobile aria-label="Расходы Бердска по годам"></div></figure>'''
 
 
 def sources() -> str:
@@ -123,7 +123,6 @@ def sources() -> str:
       <li><a href="https://berdsk-online.ru/wp-content/uploads/2026/05/byudzhet-berdska-za-2025g.pdf">Материалы отчёта об исполнении бюджета Бердска за 2025 год</a>.</li>
       <li><a href="https://rosstat.gov.ru/statistics/price">Росстат: статистика цен и инфляции</a> и <a href="https://www.rosstat.gov.ru/storage/mediabank/120_12-08-2026.html">индекс потребительских цен в июле 2026 года</a>.</li>
       <li><a href="https://www.yurga.org/upload/files/deyatelnost/ekonomika/finansy-i-kredit/budget-dlya-grajdan/IBudgGr_2025-2027_reshenie.pdf">Официальный отчёт Юрги за 2025 год</a>, <a href="https://rubtsovsk.org/index.php/node/1401">отчёт Рубцовска</a>, <a href="https://duma-seversk.ru/normativnye-dokumenty/resheniya-dumy-i-snp/15564/">отчёт Северска</a>.</li>
-      <li><a href="https://docs.superhuman.com/@berdsk-kuchenkov/budget-spendings/-13">Исходная версия статьи в Superhuman Docs</a>.</li>
     </ul><p>Все суммы округлены. Плановые показатели отделены от фактических.</p></section>'''
 
 
@@ -190,7 +189,9 @@ def build_body() -> str:
     if not chart_title_seen:
         blocks.insert(4, donut_chart())
     blocks.append(sources())
-    return "\n".join(blocks)
+    body = "\n".join(blocks)
+    body = body.replace("<strong>почти 300 миллионов на </strong>", "почти 300 миллионов на ")
+    return body
 
 
 def main() -> None:
@@ -203,4 +204,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
