@@ -121,7 +121,7 @@ def sources() -> str:
       <li>Протоколы 4-й, 14-й, 23-й, 32-й, 41–45-й, 47-й, 49-й и 50-й сессий Совета депутатов Бердска.</li>
       <li><a href="https://openbudget.mfnso.ru/index.php">Открытый бюджет Новосибирской области</a>.</li>
       <li><a href="https://berdsk-online.ru/wp-content/uploads/2026/05/byudzhet-berdska-za-2025g.pdf">Материалы отчёта об исполнении бюджета Бердска за 2025 год</a>.</li>
-      <li><a href="https://rosstat.gov.ru/statistics/price">Росстат: статистика цен и инфляции</a> и <a href="https://www.rosstat.gov.ru/storage/mediabank/120_12-08-2026.html">индекс потребительских цен в июле 2026 года</a>.</li>
+      <li><a href="https://rosstat.gov.ru/statistics/price">Росстат: статистика цен и инфляции</a>; индексы потребительских цен в <a href="https://rosstat.gov.ru/storage/mediabank/1_12-01-2024.html">декабре 2023 года</a>, <a href="https://www.rosstat.gov.ru/storage/mediabank/1_15-01-2025.html">декабре 2024 года</a> и <a href="https://rosstat.gov.ru/storage/mediabank/3_16-01-2026.html">декабре 2025 года</a>.</li>
       <li><a href="https://www.yurga.org/upload/files/deyatelnost/ekonomika/finansy-i-kredit/budget-dlya-grajdan/IBudgGr_2025-2027_reshenie.pdf">Официальный отчёт Юрги за 2025 год</a>, <a href="https://rubtsovsk.org/index.php/node/1401">отчёт Рубцовска</a>, <a href="https://duma-seversk.ru/normativnye-dokumenty/resheniya-dumy-i-snp/15564/">отчёт Северска</a>.</li>
     </ul><p>Все суммы округлены. Плановые показатели отделены от фактических.</p></section>'''
 
