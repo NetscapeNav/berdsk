@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="28" height="630" fill="#43a92b"/>
+  <circle cx="1080" cy="70" r="250" fill="#edf7e9"/>
+  <path d="M80 82h160" stroke="#43a92b" stroke-width="12"/>
+  <text x="80" y="174" fill="#2f8620" font-family="Arial, sans-serif" font-size="38" font-weight="700">АВТОРСКАЯ АНАЛИТИКА · СТЕПАН КУЧЕНКОВ</text>
+  <text x="80" y="286" fill="#151515" font-family="Arial, sans-serif" font-size="74" font-weight="700">Бердский бюджет.</text>
+  <text x="80" y="378" fill="#151515" font-family="Arial, sans-serif" font-size="74" font-weight="700">Откуда приходят деньги?</text>
+  <text x="80" y="485" fill="#5e645c" font-family="Arial, sans-serif" font-size="32">Налоги, трансферты и самостоятельность города</text>
+  <g transform="translate(858 258)">
+    <rect x="0" y="150" width="56" height="76" rx="8" fill="#b9dfad"/>
+    <rect x="76" y="96" width="56" height="130" rx="8" fill="#78b849"/>
+    <rect x="152" y="24" width="56" height="202" rx="8" fill="#43a92b"/>
+    <path d="M16 116C76 86 121 84 187 7" fill="none" stroke="#2f8620" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
